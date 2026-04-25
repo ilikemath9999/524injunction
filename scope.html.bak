@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta name="robots" content="noindex, nofollow">
-<meta http-equiv="refresh" content="0; url=https://524injunction.com/reporting.html">
+<meta http-equiv="refresh" content="0; url=https://524injunction.com/scope.html">
 <script>window.location.replace('https://524injunction.com' + window.location.pathname.replace(/^\/[^\/]+/, ''));</script>
 <link rel="preconnect" href="https://www.googletagmanager.com">
 <!-- BTN:GA4:START -->
@@ -14,21 +14,21 @@
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
-<title>How to Report a Discharge Injunction Violation</title>
-<meta name="description" content="Learn about how to report a discharge injunction violation | 524injunction.com in our free 2026 guide. Clear explanations, real data, and...">
-<link rel="canonical" href="https://524injunction.com/reporting.html">
-<meta property="og:title" content="How to Report a Discharge Injunction Violation">
-<meta property="og:description" content="Learn about how to report a discharge injunction violation | 524injunction.com in our free 2026 guide. Clear explanations, real data, and...">
+<title>Scope of the Bankruptcy Discharge Injunction</title>
+<meta name="description" content="Learn about scope of the bankruptcy discharge injunction | 524injunction.com in our free 2026 guide. Clear explanations, real data, and p...">
+<link rel="canonical" href="https://524injunction.com/scope.html">
+<meta property="og:title" content="Scope of the Bankruptcy Discharge Injunction">
+<meta property="og:description" content="Learn about scope of the bankruptcy discharge injunction | 524injunction.com in our free 2026 guide. Clear explanations, real data, and p...">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://524injunction.com/reporting.html">
+<meta property="og:url" content="https://524injunction.com/scope.html">
 <meta property="og:site_name" content="524injunction.com">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="How to Report a Discharge Injunction Violation">
-<meta name="twitter:description" content="Learn about how to report a discharge injunction violation | 524injunction.com in our free 2026 guide. Clear explanations, real data, and...">
+<meta name="twitter:title" content="Scope of the Bankruptcy Discharge Injunction">
+<meta name="twitter:description" content="Learn about scope of the bankruptcy discharge injunction | 524injunction.com in our free 2026 guide. Clear explanations, real data, and p...">
 <meta property="og:image" content="https://openbankruptcyproject.org/og-default.svg">
 <meta name="twitter:image" content="https://openbankruptcyproject.org/og-default.svg">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://524injunction.com/"},{"@type":"ListItem","position":2,"name":"How to Report a Discharge Injunction Violation","item":"https://524injunction.com/reporting.html"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://524injunction.com/"},{"@type":"ListItem","position":2,"name":"Scope of the Bankruptcy Discharge Injunction","item":"https://524injunction.com/scope.html"}]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"Organization","name":"Open Bankruptcy Project","url":"https://1328f.org"}
@@ -39,8 +39,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "How to Report a Discharge Injunction Violation",
-      "description": "How to report creditor violations of the Section 524 discharge injunction to the court, the U.S. Trustee, and the CFPB.",
+      "headline": "Scope of the Bankruptcy Discharge Injunction",
+      "description": "What the Section 524 discharge injunction covers and what it does not. In personam liability only. Liens survive. Co-debtors are not protected.",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -52,12 +52,12 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://524injunction.com/reporting.html"
+      "mainEntityOfPage": "https://524injunction.com/scope.html"
     },
     {
       "@type": "WebPage",
-      "name": "How to Report a Discharge Injunction Violation",
-      "url": "https://524injunction.com/reporting.html",
+      "name": "Scope of the Bankruptcy Discharge Injunction",
+      "url": "https://524injunction.com/scope.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -112,27 +112,6 @@
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What debts are discharged in bankruptcy?", "acceptedAnswer": {"@type": "Answer", "text": "Most unsecured debts are discharged, including credit cards, medical bills, personal loans, and utility arrears. Debts that typically cannot be discharged include student loans (except in hardship cases), most taxes, child support, alimony, and debts from fraud or willful injury."}}, {"@type": "Question", "name": "How long does it take to get a bankruptcy discharge?", "acceptedAnswer": {"@type": "Answer", "text": "In Chapter 7, the discharge typically arrives about 60 days after the 341 meeting, or roughly 3-4 months after filing. In Chapter 13, the discharge comes after completing all plan payments, which takes 3-5 years."}}, {"@type": "Question", "name": "Can a creditor object to my discharge?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Creditors can file an adversary proceeding arguing that a specific debt should not be discharged due to fraud, misrepresentation, or other exceptions under 11 U.S.C. Section 523. They can also object to your entire discharge under Section 727 for misconduct like hiding assets."}}, {"@type": "Question", "name": "What is the difference between a discharge and a dismissal?", "acceptedAnswer": {"@type": "Answer", "text": "A discharge eliminates your personal liability for qualifying debts permanently. A dismissal ends your bankruptcy case without eliminating any debts, as if you never filed. A dismissal may also impose a waiting period before you can file again."}}, {"@type": "Question", "name": "Can my bankruptcy discharge be revoked?", "acceptedAnswer": {"@type": "Answer", "text": "In rare cases, yes. A discharge can be revoked within one year if the debtor committed fraud, failed to disclose assets, or refused to obey a court order. Revocation requires a court proceeding initiated by the trustee, a creditor, or the U.S. Trustee."}}]}
 </script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
 </head>
 <body>
 <a href="#main" class="skip-link">Skip to main content</a>
@@ -146,56 +125,54 @@
     <a href="/contempt.html">Contempt Motions</a>
     <a href="/what-is-not-covered.html">Exceptions</a>
     <a href="/creditor-violations.html">Creditor Violations</a>
-    <a href="/reporting.html" aria-current="page">Reporting</a>
+    <a href="/reporting.html">Reporting</a>
     <a href="/lawsuit-protection.html">Lawsuit Protection</a>
-    <a href="/scope.html">Scope</a>
+    <a href="/scope.html" aria-current="page">Scope</a>
   </div>
 </nav>
 <main id="main">
-<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://524injunction.com/">Home</a><span class="separator">&rsaquo;</span><span>How to Report a Discharge Injunction Violation</span></nav>
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://524injunction.com/">Home</a><span class="separator">&rsaquo;</span><span>Scope of the Bankruptcy Discharge Injunction</span></nav>
 
   <div class="network-badge">Part of the <a href="https://1328f.org?utm_source=524injunction.com&utm_medium=referral&utm_campaign=btn-network">Open Bankruptcy Project</a></div>
-  <h1>How to Report a Discharge Injunction Violation</h1>
-  <p class="lead">Three channels for reporting: the bankruptcy court, the U.S. Trustee, and the CFPB.</p>
+  <h1>Scope of the Bankruptcy Discharge Injunction</h1>
+  <p class="lead">Understanding exactly what the <a href="https://dischargeinjunction.org" title="Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">discharge injunction</a> does and does not protect.</p>
 
-  <h2>1. The Bankruptcy Court (Contempt Motion)</h2>
-  <p>The most direct path is filing a <a href="/contempt.html">motion for contempt</a> in the bankruptcy court where your case was filed. The court has the power to:</p>
+  <h2>What the Discharge Covers</h2>
+  <p>The <a href="https://dischargeinjunction.org" title="Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">discharge injunction</a> under 11 U.S.C. <a href="https://524injunction.com" title="Section 524 Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">Section 524</a>(a)(2) prohibits any act to collect, recover, or offset a discharged debt as a <strong>personal liability of the debtor</strong>. This includes:</p>
   <ul>
-    <li>Order the creditor to cease all collection activity</li>
-    <li>Award actual damages (financial harm you suffered)</li>
-    <li>Award emotional distress damages (in many circuits)</li>
-    <li>Award punitive damages for willful violations</li>
-    <li>Order the creditor to pay your attorney fees</li>
+    <li>Lawsuits against the debtor</li>
+    <li>Collection calls and letters directed at the debtor</li>
+    <li><a href="https://garnishedwages.org" title="Wage Garnishment and Bankruptcy - Open Bankruptcy Project" target="_blank" rel="noopener">Wage garnishment</a></li>
+    <li>Bank account levies</li>
+    <li>Credit reporting showing a balance owed</li>
+    <li>Any other act to collect from the debtor personally</li>
   </ul>
-  <p>You may need to reopen your closed case to file the motion. There is typically a small fee to reopen (currently $260 in most districts), though some courts waive this fee. The reopening process is usually straightforward.</p>
 
-  <h2>2. The U.S. Trustee</h2>
-  <p>The U.S. Trustee's office monitors the bankruptcy system and can take action against creditors who systematically violate the <a href="https://dischargeinjunction.org" title="Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">discharge injunction</a>. While the UST typically does not handle individual complaints directly, reporting patterns of abuse can lead to enforcement actions.</p>
-  <p>To report, contact the U.S. Trustee's office for your district. A list of offices is available at <a href="https://www.justice.gov/ust/eo/ust_org/offices.htm">justice.gov/ust</a>.</p>
+  <h2>In Personam Only</h2>
+  <p>The <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> is <strong>in personam</strong> - it protects the debtor as a person. It does not protect the debtor's property from valid liens that existed before the bankruptcy. This is one of the most misunderstood aspects of the <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>.</p>
 
-  <h2>3. The Consumer Financial Protection Bureau (CFPB)</h2>
-  <p>The CFPB accepts complaints about debt collection practices, including collection on discharged debts. While the CFPB does not enforce the <a href="https://dischargeinjunction.org" title="Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">discharge injunction</a> directly, complaints can trigger investigations of creditors and debt collectors.</p>
-  <p>File a complaint at <a href="https://www.consumerfinance.gov/complaint/">consumerfinance.gov/complaint</a>. Select "Debt collection" as the product and describe the violation.</p>
-
-  <h2>4. State Attorney General</h2>
-  <p>Your state attorney general's consumer protection division may also accept complaints about creditors collecting on discharged debts. Some states have consumer protection statutes that provide additional remedies beyond federal bankruptcy law.</p>
-
-  <h2>What to Include in Your Report</h2>
+  <h2>Liens Survive Discharge</h2>
+  <p>A secured creditor's lien on property survives the discharge even though the debtor's personal liability for the underlying debt is eliminated. Examples:</p>
   <ul>
-    <li>Your bankruptcy case number and court</li>
-    <li>A copy of your <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> order</li>
-    <li>The creditor's name and contact information</li>
-    <li>Detailed description of each violation (dates, times, what was said or done)</li>
-    <li>Copies of letters, voicemails, credit report entries, or other evidence</li>
-    <li>Description of any financial or emotional harm you suffered</li>
+    <li><strong>Mortgage:</strong> The bank cannot sue you for the mortgage debt, but the lien remains on the house. If you stop making payments, the bank can foreclose - it just cannot pursue you for any deficiency.</li>
+    <li><strong>Car loan:</strong> The lender cannot sue you for the loan balance, but the lien on the car remains. If you stop paying, the lender can repossess the vehicle.</li>
+    <li><strong>Tax liens:</strong> An IRS or state tax lien recorded before filing survives the discharge. The tax debt may be discharged, but the lien remains on your property until it expires or is released.</li>
+    <li><strong>Judicial liens:</strong> Liens from pre-petition judgments survive unless the debtor successfully avoids them under Section 522(f).</li>
   </ul>
+
+  <h2>Co-Debtors Are Not Protected</h2>
+  <p>The <a href="https://dischargeinjunction.org" title="Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">discharge injunction</a> only protects the debtor who filed bankruptcy. If someone co-signed a loan or is jointly liable for a debt, creditors can still pursue the co-debtor even after the debtor receives a discharge.</p>
+  <p>Exception: In <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>, the <a href="https://codebtorstay.org">co-debtor stay</a> under Section 1301 temporarily protects co-debtors on consumer debts during the case. But this protection ends when the case is closed.</p>
+
+  <h2>Community Property</h2>
+  <p>In community property states, the discharge may protect community property from the debtor's pre-petition debts under <a href="https://524injunction.com" title="Section 524 Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">Section 524</a>(a)(3). This extends the injunction beyond the debtor personally to community property acquired after the bankruptcy filing.</p>
 
   <h2>Cross-References</h2>
   <ul>
-    <li><a href="/contempt.html">Contempt motions</a> - How to enforce the injunction in court</li>
-    <li><a href="/creditor-violations.html">Common violations</a></li>
     <li><a href="https://dischargeinjunction.com">dischargeinjunction.com</a></li>
     <li><a href="https://dischargeinjunction.org">dischargeinjunction.org</a></li>
+    <li><a href="https://automaticstay.org">automaticstay.org</a> - Stay protection during the case</li>
+    <li><a href="https://codebtorstay.org">codebtorstay.org</a> - <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> <a href="https://codebtorstay.org" title="Co-Debtor Stay - Open Bankruptcy Project" target="_blank" rel="noopener">co-debtor stay</a></li>
   </ul>
 
   <div class="callout-warning callout">
